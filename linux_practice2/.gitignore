@@ -1,3 +1,2 @@
-.gizumo{20..29}.md
-
-.DS_Store
+[core]
+excludesFile = ~/trash/gizumo{20..29}.md
